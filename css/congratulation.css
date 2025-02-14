@@ -53,7 +53,7 @@ body {
 	color: #FFF;
 	white-space: nowrap;
 	cursor: default;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .reveal-text::after {
